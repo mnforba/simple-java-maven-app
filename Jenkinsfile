@@ -1,4 +1,3 @@
-#script to build
 pipeline {
     agent {
         docker {
